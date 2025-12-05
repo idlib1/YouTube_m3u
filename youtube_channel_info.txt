@@ -1,6 +1,8 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
+# (اسم القناة): (رقم التعريف)
+الإخبارية السورية:UClm30t2F4FHzzkN9Irtr-8A
 
 AlekhbariahSY TV Live | Syria | https://alikhbariah.com/wp-content/uploads/2025/05/لوغو.jpg |
 https://www.youtube.com/channel/UClm30t2F4FHzzkN9Irtr-8A
